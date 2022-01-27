@@ -1,0 +1,186 @@
+[
+  [
+    {
+      "positionX": 1850,
+      "positionY": 500,
+      "width": 50,
+      "height": 1450,
+      "type": "SQUARE"
+    },
+    {
+      "positionX": 0,
+      "positionY": 0,
+      "width": 50,
+      "height": 2000,
+      "type": "SQUARE"
+    },
+    {
+      "positionX": 0,
+      "positionY": 1950,
+      "width": 650,
+      "height": 50,
+      "type": "SQUARE"
+    },
+    {
+      "positionX": 1350,
+      "positionY": 1950,
+      "width": 550,
+      "height": 50,
+      "type": "SQUARE"
+    },
+    {
+      "positionX": 1950,
+      "positionY": 0,
+      "width": 50,
+      "height": 2000,
+      "type": "SQUARE"
+    },
+    {
+      "positionX": 0,
+      "positionY": 0,
+      "width": 1950,
+      "height": 50,
+      "type": "SQUARE"
+    },
+    {
+      "positionX": 1524,
+      "positionY": 1112,
+      "width": 0,
+      "height": 0,
+      "type": "SQUARE"
+    },
+    {
+      "positionX": 1964,
+      "positionY": 312,
+      "width": -480,
+      "height": -268,
+      "type": "TRIANGLE"
+    },
+    {
+      "positionX": 1628,
+      "positionY": 1660,
+      "width": -276,
+      "height": 100,
+      "type": "TRIANGLE"
+    },
+    {
+      "positionX": 364,
+      "positionY": 1660,
+      "width": 304,
+      "height": 100,
+      "type": "TRIANGLE"
+    },
+    {
+      "positionX": 1616,
+      "positionY": 1760,
+      "width": 68,
+      "height": -292,
+      "type": "SQUARE"
+    },
+    {
+      "positionX": 368,
+      "positionY": 1764,
+      "width": -52,
+      "height": -268,
+      "type": "SQUARE"
+    },
+    {
+      "positionX": 1852,
+      "positionY": 1008,
+      "width": -180,
+      "height": -504,
+      "type": "TRIANGLE"
+    },
+    {
+      "positionX": 328,
+      "positionY": 1632,
+      "width": -100,
+      "height": -136,
+      "type": "SQUARE"
+    },
+    {
+      "positionX": 244,
+      "positionY": 1872,
+      "width": 404,
+      "height": 80,
+      "type": "TRIANGLE"
+    },
+    {
+      "positionX": 1676,
+      "positionY": 1896,
+      "width": -320,
+      "height": 60,
+      "type": "TRIANGLE"
+    },
+    {
+      "positionX": 1680,
+      "positionY": 1960,
+      "width": 170,
+      "height": -50,
+      "type": "BOUNCER"
+    },
+    {
+      "positionX": 50,
+      "positionY": 1960,
+      "width": 190,
+      "height": -50,
+      "type": "BOUNCER"
+    },
+    {
+      "positionX": 520,
+      "positionY": 704,
+      "width": 150.78461459976614,
+      "height": 150.78461459976614,
+      "type": "SCOREBALL",
+      "flash": 0
+    },
+    {
+      "positionX": 1336,
+      "positionY": 868,
+      "width": 106.28264204469137,
+      "height": 106.28264204469137,
+      "type": "SCOREBALL",
+      "flash": 0
+    },
+    {
+      "positionX": 304,
+      "positionY": 336,
+      "width": 84.38009243891595,
+      "height": 84.38009243891595,
+      "type": "SCOREBALL",
+      "flash": 0
+    },
+    {
+      "positionX": 776,
+      "positionY": 308,
+      "width": 65.11528238439882,
+      "height": 65.11528238439882,
+      "type": "SCOREBALL",
+      "flash": 0
+    },
+    {
+      "positionX": 1304,
+      "positionY": 300,
+      "width": 51.22499389946279,
+      "height": 51.22499389946279,
+      "type": "SCOREBALL",
+      "flash": 0
+    },
+    {
+      "positionX": 40,
+      "positionY": 216,
+      "width": 256,
+      "height": -176,
+      "type": "TRIANGLE",
+      "flash": 0
+    },
+    {
+      "positionX": 1035.2588147036759,
+      "positionY": 38.980509745127435,
+      "width": 93.70496550682194,
+      "height": 93.70496550682194,
+      "type": "SCOREBALL",
+      "flash": 0
+    }
+  ]
+]
